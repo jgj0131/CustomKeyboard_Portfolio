@@ -50,7 +50,7 @@
 
 <img src = "Assets/delete_LongPress.png" width="33%"></img>
 
-> Delete 버튼을 LongPress하면 손가락 이동에 따른 다양한 기능들을 볼 수 있다.
+> Delete 버튼을 LongPress하면 손가락 이동에 따른 다양한 기능들을 볼 수 있고, 각 기능들을 동작시킬 수 있다.
 
 #### * Back Delete
 
